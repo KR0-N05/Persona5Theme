@@ -1,0 +1,45 @@
+{
+    "manifest": {
+        "name": "Persona 5 Theme",
+        "author": "KR0_N05",
+        "version": "1.0.0"
+    },
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/KR0-N05\/Persona5Theme\/refs\/heads\/main\/P5.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/gitlab.com\/Grzesiek11\/aliucord-theme-mirror\/-\/raw\/master\/assets\/Lake&Pines\/Nunito-ExtraBold.ttf"
+    },
+    "simple_colors": {
+        "active_channel": -1531171291,
+        "accent": -474206683,
+        "mention_highlight": 1035742757,
+        "background": 0,
+        "background_secondary": 0
+    },
+    "colors": {
+        "brand": -656517555,
+        "brand_new_500": -471968179,
+        "primary_dark_400": -471968179,
+        "primary_dark_360": -471968179,
+        "uikit_btn_compound_color_selector_dark": -843305435,
+        "primary_dark_300": -471968179,
+        "uikit_btn_compound_color_selector_light": 2111723085,
+        "uikit_settings_item_text_color_dark": -471968179,
+        "uikit_settings_item_text_color_light": -1111740891,
+        "abc_tint_switch_track": 1876842061,
+        "link": -241096928,
+        "link_500": -264237350,
+        "primary_dark_200": -1,
+        "white_500": -1,
+        "primary_300": -8482671
+    },
+    "drawable_tints": {
+        "ic_sidebar_notifications_on_dark_24dp": -2673622,
+        "ic_sidebar_notifications_off_dark_24dp": -239325659,
+        "ic_sidebar_pins_off_dark_24dp": -2673622,
+        "ic_sidebar_pins_on_dark_24dp": -2673622,
+        "ic_thread": -2673622
+    },
+    "raws": {}
+}
