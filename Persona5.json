@@ -2,7 +2,8 @@
     "manifest": {
         "name": "Persona 5 Theme",
         "author": "KR0_N05",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/KR0-N05\/Persona5Theme\/refs\/heads\/main\/Persona5.json"
     },
     "background": {
         "url": "https:\/\/raw.githubusercontent.com\/KR0-N05\/Persona5Theme\/refs\/heads\/main\/P5.jpg"
